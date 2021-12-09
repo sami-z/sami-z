@@ -16,6 +16,7 @@ Feel free to check out <a href="https://samizeremariam.com/" target="_blank">my 
 <li>Bullet List Enthusiast</li>
 </ul>
 
-## I am good at a few things:
+## :computer: Languages, Skills, & Other fun Stuff
+                                                                            
 
 <img src="https://raw.githubusercontent.com/sami-z/sami-z/main/tags.svg?token=AM746SDE2UGTHFDJVMK7KGLBXOLMY" width="auto" height="auto">
