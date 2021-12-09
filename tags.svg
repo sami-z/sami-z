@@ -22,27 +22,33 @@
           width: fit-content;
           white-space: nowrap;
           font-family:sans-serif;
-          background-color: #e3ffff;
+          background-color: #557a95;
           color: #0ca4a5;
           margin: 0.125em;
         }
       </style>
 
       <div class="tags">
-        <div class="tag">TEST</div>
-        <div class="tag">Vue(X)</div>
-        <div class="tag">Svelte</div>
-        <div class="tag">TypeScript</div>
+        <div class="tag">Java</div>
+        <div class="tag">Python(X)</div>
+        <div class="tag">C</div>
+        <div class="tag">HTML</div>
+         <div class="tag">CSS</div>
+         <div class="tag">Haskell</div>
       </div>
       <div class="tags">
-        <div class="tag">(S)CSS</div>
-        <div class="tag">Building UIs</div>
-        <div class="tag">Web Components</div>
+        <div class="tag">Flask</div>
+        <div class="tag">Version Control</div>
+        <div class="tag">JUnit</div>
+        <div class="tag">Bootstrap</div>
+        <div class="tag">JavaFX</div>
       </div>
       <div class="tags">
-        <div class="tag">Ionic</div>
-        <div class="tag">Electron</div>
-        <div class="tag">.NET</div>
+        <div class="tag">Photography</div>
+        <div class="tag">Photoshop</div>
+        <div class="tag">Lightroom</div>
+        <div class="tag">Wordpress</div>
+        <div class="tag">Wix</div>
       </div>
 
     </div>
