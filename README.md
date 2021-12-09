@@ -18,4 +18,4 @@ Feel free to check out <a href="https://samizeremariam.com/" target="_blank">my 
 
 ## I am good at a few things:
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/sami-z/sami-z/main/tags.svg" width="auto" height="auto">
