@@ -6,7 +6,7 @@
 # Hey there! 👋️
 ![](https://komarev.com/ghpvc/?username=sami-z&color=0ca4a5)
 
-I am a software engineer from Brazil. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
+My name is Sami and I'm currently an undergraduate student at the University of Calgary studying Computer Science and Finance. I'd love to pursue a career in software engineering to have an impact on how future software shapes tomorrow's solutions. In my free time I also work as a freelance photographer, and through my work I've had the opportunity to connect with various social media influencers, work on a variety of different photography projects, and develop my own unique style!
 
 Feel free to check out <a href="https://samizeremariam.com/" target="_blank">my website</a> or connect with me below!
 
