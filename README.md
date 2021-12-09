@@ -18,7 +18,7 @@ Feel free to check out <a href="https://samizeremariam.com/" target="_blank">my 
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://github.com/sami-z"><img width="32px" alt="Github" title="Github" src="https://github.com/sami-z/sami-z/blob/ef621f9901f38d55b8a24de99e152df214505308/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://samizeremariam.com/"><img width="32px" alt="Website" title="Website" src="https://github.com/sami-z/sami-z/blob/ef621f9901f38d55b8a24de99e152df214505308/website.png"/></a>
+    <a href="https://samizeremariam.com/"><img width="32px" alt="Website" title="Website" src="https://github.com/sami-z/sami-z/blob/7ca6a6880f76a43291929f6771e775aadc700800/website.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="samizeremariam@gmail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/sami-z/sami-z/blob/ef621f9901f38d55b8a24de99e152df214505308/email.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
