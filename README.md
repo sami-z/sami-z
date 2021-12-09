@@ -12,17 +12,17 @@ Feel free to check out <a href="https://samizeremariam.com/" target="_blank">my 
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/s_z.18/?hl=en"><img width="32px" alt="Instagram" title="Youtube" src="https://i.imgur.com/M6yBwxS.png"/></a>
+  <a href="https://www.instagram.com/s_z.18/?hl=en"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/sami-z/sami-z/blob/ef621f9901f38d55b8a24de99e152df214505308/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/Vahbdkj.png"/></a>
+  <a href="https://www.linkedin.com/in/samizeremariam/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/sami-z/sami-z/blob/ef621f9901f38d55b8a24de99e152df214505308/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+   <a href="https://github.com/sami-z"><img width="32px" alt="Github" title="Github" src="https://github.com/sami-z/sami-z/blob/ef621f9901f38d55b8a24de99e152df214505308/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+    <a href="https://samizeremariam.com/"><img width="32px" alt="Website" title="Website" src="https://github.com/sami-z/sami-z/blob/ef621f9901f38d55b8a24de99e152df214505308/website.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="samizeremariam@gmail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/sami-z/sami-z/blob/ef621f9901f38d55b8a24de99e152df214505308/email.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  
 </p>
 
 ## :computer: Languages, Skills, & Other fun Stuff
