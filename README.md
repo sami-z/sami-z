@@ -40,16 +40,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-HTML         5 hrs 18 mins   █████████████▓░░░░░░░░░░░   54.90 % 
-JSX          2 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
-TypeScript   1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-JavaScript   1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-```
-<!--END_SECTION:waka-->
+
 
 
 
